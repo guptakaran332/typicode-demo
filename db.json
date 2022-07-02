@@ -11,4 +11,8 @@
   "profile": {
     "name": "typicode"
   }
+  "user": {
+  "id":1,
+  "firstName":"Anthony",
+  "lastName":"Gupta"
 }
